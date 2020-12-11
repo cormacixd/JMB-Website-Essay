@@ -1,2 +1,2 @@
 # Website
-(https://cormacixd.github.io/JMD/JMD.html) 
+(https://cormacixd.github.io/Website/JMD.html) 
