@@ -1,3 +1,3 @@
 # Website-Essay
 
-https://cormacixd.github.io/JMB-Website-Essay/index
+https://cormacixd.github.io/JMB-Website-Essay/JMB.html
